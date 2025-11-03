@@ -1,0 +1,14 @@
+# Ignore build and IDE files
+/build/
+nbproject/private/
+dist/
+*.log
+*.tmp
+*.class
+*.war
+*.jar
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
